@@ -1,7 +1,7 @@
-import 'package:a/Telas/tela_produtos.dart';
+import 'package:bela/Telas/tela_produtos.dart';
 import 'data/produtos .dart';
 import 'models/produtos.dart';
-import 'package:a/models/produtos.dart';
+import 'package:bela/models/produtos.dart';
 import 'package:flutter/material.dart';
 import 'utils/rotas.dart';
 
